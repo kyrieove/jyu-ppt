@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration"><image x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="page-header"><text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text><text x="48" y="92" fill="#002957" font-family="Aleo, Georgia, serif" font-size="34" font-weight="700">Page title stating the claim lorem ipsum dolor sit</text><line x1="48" y1="146" x2="1232" y2="146" stroke="#C7C9C8" stroke-width="1"/></g>
+  <text x="48" y="188" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="16" font-weight="700">Panel A · measure lorem</text>
+  <image x="48" y="202" width="384" height="300" href="../images/figure_1.jpeg" preserveAspectRatio="xMidYMid meet"/><text x="48" y="520" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="11">Fig. 2: Figure caption lorem ipsum dolor sit amet.</text>
+  <text x="448" y="188" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="16" font-weight="700">Panel B · measure lorem</text>
+  <image x="448" y="202" width="384" height="300" href="../images/figure_2.jpeg" preserveAspectRatio="xMidYMid meet"/><text x="448" y="520" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="11">Fig. 3: Figure caption lorem ipsum dolor sit amet.</text>
+  <text x="848" y="188" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="16" font-weight="700">Panel C · measure lorem</text>
+  <image x="848" y="202" width="384" height="300" href="../images/figure_3.jpeg" preserveAspectRatio="xMidYMid meet"/><text x="848" y="520" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="11">Fig. 4: Figure caption lorem ipsum dolor sit amet.</text>
+  <rect x="48" y="560" width="14" height="14" fill="#002957"/>
+  <text x="70" y="572" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="14">Group A lorem</text>
+  <rect x="190" y="560" width="14" height="14" fill="#F1563F"/>
+  <text x="212" y="572" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="14">Group B lorem</text>
+  <line x1="48" y1="596" x2="1232" y2="596" stroke="#C7C9C8" stroke-width="1"/>
+  <text x="48" y="632" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="18"><tspan font-weight="700" fill="#002957">Takeaway: </tspan>one sentence lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</text>
+  <g id="page-footer"><text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">21</text><text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text><text x="1232" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="end">JYU SINCE 1863.</text></g>
+</svg>

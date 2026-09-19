@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration"><image x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="page-header"><text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text><text x="48" y="92" fill="#002957" font-family="Aleo, Georgia, serif" font-size="34" font-weight="700">Key references</text><line x1="48" y1="146" x2="1232" y2="146" stroke="#C7C9C8" stroke-width="1"/></g>
+  <rect x="48" y="184" width="3" height="68" fill="#C29A5B"/>
+  <text x="68" y="204" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="17" font-weight="700">Author, A. A., &amp; Author, B. B. (Year).</text>
+  <text x="68" y="230" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="17">Title of the article lorem ipsum dolor sit amet.</text>
+  <text x="68" y="254" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="15" font-style="italic">Journal Name, 00(0), 000–000.</text>
+  <rect x="48" y="288" width="3" height="68" fill="#C29A5B"/>
+  <text x="68" y="308" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="17" font-weight="700">Author, C. (Year).</text>
+  <text x="68" y="334" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="17">Title of the book lorem ipsum.</text>
+  <text x="68" y="358" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="15" font-style="italic">Publisher.</text>
+  <rect x="48" y="392" width="3" height="68" fill="#C29A5B"/>
+  <text x="68" y="412" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="17" font-weight="700">Author, D. D., Author, E., &amp; Author, F. (Year).</text>
+  <text x="68" y="438" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="17">Title of the article lorem ipsum dolor sit amet consectetur.</text>
+  <text x="68" y="462" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="15" font-style="italic">Journal Name, 00, 000000.</text>
+  <rect x="48" y="496" width="3" height="68" fill="#C29A5B"/>
+  <text x="68" y="516" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="17" font-weight="700">Author, G., &amp; Author, H. (Year).</text>
+  <text x="68" y="542" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="17">Title of the article lorem ipsum dolor.</text>
+  <text x="68" y="566" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="15" font-style="italic">Journal Name, 00(0), 000–000.</text>
+  <g id="page-footer"><text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">23</text><text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text><text x="1232" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="end">JYU SINCE 1863.</text></g>
+</svg>

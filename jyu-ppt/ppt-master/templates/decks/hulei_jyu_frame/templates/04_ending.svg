@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  data-pptx-master="hj_dark" data-pptx-master-name="JYU Dark"
+  data-pptx-layout="ending" data-pptx-layout-name="Thank You">
+  <rect id="dark-master-bg" x="0" y="0" width="1280" height="720" fill="#002957" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-coral" x="320" y="704" width="320" height="16" fill="#F1563F" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-gold" x="640" y="704" width="320" height="16" fill="#C29A5B" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-grey" x="960" y="704" width="320" height="16" fill="#C7C9C8" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="ending-logo" x="546.68" y="44" width="186.63" height="120.94" href="../images/jyu_logo_vertical_white.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="ending-gold-rule" x="600" y="184" width="80" height="3" fill="#C29A5B" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="ending-title-slot" data-pptx-placeholder="title" data-pptx-bounds="140 204 1000 64">
+    <text id="ending-title-carrier" data-pptx-carrier="true" x="640" y="250" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="42" font-weight="700">{{THANK_YOU}}</text>
+  </g>
+  <g id="ending-subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="140 270 1000 36">
+    <text id="ending-subtitle-carrier" data-pptx-carrier="true" x="640" y="295" text-anchor="middle" fill="#C29A5B" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="24">{{ENDING_SUBTITLE}}</text>
+  </g>
+  <g id="ending-presenter-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="240 524 800 34">
+    <text id="ending-presenter-carrier" data-pptx-carrier="true" x="640" y="550" text-anchor="middle" fill="#FFFFFF" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700">{{AUTHOR}}</text>
+  </g>
+  <g id="ending-affiliation-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="190 564 900 30">
+    <text id="ending-affiliation-carrier" data-pptx-carrier="true" x="640" y="585" text-anchor="middle" fill="#C7C9C8" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="16">{{AFFILIATION}}</text>
+  </g>
+</svg>

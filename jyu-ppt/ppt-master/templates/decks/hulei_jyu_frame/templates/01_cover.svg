@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  data-pptx-master="hj_dark" data-pptx-master-name="JYU Dark"
+  data-pptx-layout="cover" data-pptx-layout-name="Title Cover">
+  <rect id="dark-master-bg" x="0" y="0" width="1280" height="720" fill="#002957" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-coral" x="320" y="704" width="320" height="16" fill="#F1563F" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-gold" x="640" y="704" width="320" height="16" fill="#C29A5B" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-grey" x="960" y="704" width="320" height="16" fill="#C7C9C8" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="cover-logo" x="546.68" y="44" width="186.63" height="120.94" href="../images/jyu_logo_vertical_white.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="cover-gold-rule" x="600" y="186" width="80" height="3" fill="#C29A5B" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="cover-title-slot" data-pptx-placeholder="title" data-pptx-bounds="140 206 1000 140">
+    <text id="cover-title-carrier" data-pptx-carrier="true" x="640" y="246" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="38" font-weight="700">{{TITLE}}</text>
+  </g>
+  <g id="cover-subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="140 352 1000 48">
+    <text id="cover-subtitle-carrier" data-pptx-carrier="true" x="640" y="380" text-anchor="middle" fill="#FFFFFF" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="26">{{SUBTITLE}}</text>
+  </g>
+  <g id="cover-presenter-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="240 446 800 40">
+    <text id="cover-presenter-carrier" data-pptx-carrier="true" x="640" y="474" text-anchor="middle" fill="#FFFFFF" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="700">{{AUTHOR}}</text>
+  </g>
+  <g id="cover-affiliation-slot" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="190 512 900 36">
+    <text id="cover-affiliation-carrier" data-pptx-carrier="true" x="640" y="536" text-anchor="middle" fill="#C7C9C8" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="18">{{AFFILIATION}}</text>
+  </g>
+  <g id="cover-citation-slot" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="240 598 800 28">
+    <text id="cover-citation-carrier" data-pptx-carrier="true" x="640" y="618" text-anchor="middle" fill="#8094AB" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="14">{{SOURCE}}</text>
+  </g>
+  <g id="cover-partner-logo-slot" data-pptx-placeholder="object" data-pptx-idx="4" data-pptx-bounds="1100 552 120 120">
+    <image id="cover-partner-logo-carrier" data-pptx-carrier="true" x="1100" y="552" width="120" height="120" href="../images/interlearn_logo.png" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>

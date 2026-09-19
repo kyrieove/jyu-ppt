@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="toc">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration" data-pptx-bounds="1194 30 27 60">
+    <image id="light-torch" x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="page-header" data-pptx-bounds="48 36 1130 100">
+    <text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text>
+    <text x="48" y="106" fill="#002957" font-family="Aleo, Georgia, serif" font-size="42" font-weight="700">Page title stating</text>
+    <line x1="48" y1="136" x2="1232" y2="136" stroke="#C7C9C8" stroke-width="1"/>
+  </g>
+
+  <g id="col-1" data-pptx-bounds="48 180 275 460">
+    <text x="48" y="240" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="56" font-weight="700">01</text>
+    <text x="48" y="280" fill="#002957" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">
+      <tspan x="48" dy="0">Subheading</tspan>
+      <tspan x="48" dy="30">Subheading</tspan>
+    </text>
+    <line x1="48" y1="330" x2="180" y2="330" stroke="#C29A5B" stroke-width="2"/>
+    <text x="48" y="370" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16">
+      <tspan x="48" dy="0">• Body text lorem ipsum</tspan>
+      <tspan x="48" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="48" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="48" dy="28">• Body text lorem ipsum</tspan>
+    </text>
+  </g>
+
+  <g id="col-2" data-pptx-bounds="352 180 275 460">
+    <text x="352" y="240" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="56" font-weight="700">02</text>
+    <text x="352" y="280" fill="#002957" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">
+      <tspan x="352" dy="0">Subheading</tspan>
+      <tspan x="352" dy="30">Subheading</tspan>
+    </text>
+    <line x1="352" y1="330" x2="484" y2="330" stroke="#C29A5B" stroke-width="2"/>
+    <text x="352" y="370" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16">
+      <tspan x="352" dy="0">• Body text lorem ipsum</tspan>
+      <tspan x="352" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="352" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="352" dy="28">• Body text lorem ipsum</tspan>
+    </text>
+  </g>
+
+  <g id="col-3" data-pptx-bounds="656 180 275 460">
+    <text x="656" y="240" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="56" font-weight="700">03</text>
+    <text x="656" y="280" fill="#002957" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">
+      <tspan x="656" dy="0">Subheading</tspan>
+      <tspan x="656" dy="30">Subheading</tspan>
+    </text>
+    <line x1="656" y1="330" x2="788" y2="330" stroke="#C29A5B" stroke-width="2"/>
+    <text x="656" y="370" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16">
+      <tspan x="656" dy="0">• Body text lorem ipsum</tspan>
+      <tspan x="656" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="656" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="656" dy="28">• Body text lorem</tspan>
+      <tspan x="656" dy="28">• Body text lorem ipsum</tspan>
+    </text>
+  </g>
+
+  <g id="col-4" data-pptx-bounds="960 180 272 460">
+    <text x="960" y="240" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="56" font-weight="700">04</text>
+    <text x="960" y="280" fill="#002957" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">
+      <tspan x="960" dy="0">Subheading</tspan>
+      <tspan x="960" dy="30">Subheading</tspan>
+    </text>
+    <line x1="960" y1="330" x2="1092" y2="330" stroke="#C29A5B" stroke-width="2"/>
+    <text x="960" y="370" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16">
+      <tspan x="960" dy="0">• Body text lorem ipsum</tspan>
+      <tspan x="960" dy="28">• Body text lorem</tspan>
+      <tspan x="960" dy="28">• Body text lorem ipsum</tspan>
+      <tspan x="960" dy="28">• Body text lorem ipsum</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="48 686 1184 22">
+    <text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">02</text>
+    <text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text>
+    <text x="1232" y="701" text-anchor="end" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">JYU SINCE 1863.</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  data-pptx-master="hj_light" data-pptx-master-name="JYU Light"
+  data-pptx-layout="content" data-pptx-layout-name="Content Frame">
+  <rect id="light-master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-title-rule" x="48" y="146" width="1184" height="1" fill="#C7C9C8" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="kicker-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="48 38 1120 24">
+    <text id="kicker-carrier" data-pptx-carrier="true" x="48" y="56" fill="#F1563F" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">{{SECTION_NAME}}</text>
+  </g>
+  <g id="page-title-slot" data-pptx-placeholder="title" data-pptx-bounds="48 64 1184 80">
+    <text id="page-title-carrier" data-pptx-carrier="true" x="48" y="92" fill="#002957" font-family="Aleo, Georgia, serif" font-size="34" font-weight="700">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="footer-num-slot" data-pptx-placeholder="slide-number" data-pptx-idx="12" data-pptx-bounds="48 686 36 22">
+    <text id="footer-num-carrier" data-pptx-carrier="true" x="48" y="701" fill="#8094AB" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="14">{{PAGE_NUM}}</text>
+  </g>
+  <g id="footer-source-slot" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="88 686 760 22">
+    <text id="footer-source-carrier" data-pptx-carrier="true" x="88" y="701" fill="#8094AB" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="14">{{SOURCE}}</text>
+  </g>
+  <g id="footer-brand-slot" data-pptx-placeholder="footer" data-pptx-idx="11" data-pptx-bounds="880 686 352 22">
+    <text id="footer-brand-carrier" data-pptx-carrier="true" x="1232" y="701" text-anchor="end" fill="#8094AB" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="14">JYU SINCE 1863.</text>
+  </g>
+</svg>

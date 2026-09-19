@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration" data-pptx-bounds="1194 30 27 60">
+    <image id="light-torch" x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="page-header" data-pptx-bounds="48 36 1130 100">
+    <text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text>
+    <text x="48" y="104" fill="#002957" font-family="Aleo, Georgia, serif" font-size="36" font-weight="700">Page title stating the claim lorem ipsum</text>
+    <line x1="48" y1="136" x2="1232" y2="136" stroke="#C7C9C8" stroke-width="1"/>
+  </g>
+
+  <g id="conclusion-1" data-pptx-bounds="48 156 380 344">
+    <rect x="48" y="156" width="380" height="344" rx="4" fill="#F4F6F8" stroke="#002957" stroke-width="1.5"/>
+    <rect x="72" y="180" width="36" height="36" rx="4" fill="#002957"/>
+    <text x="90" y="205" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">1</text>
+    <text x="120" y="205" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Subheading lorem</text>
+
+    <text x="72" y="248" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="15">
+      <tspan x="72" dy="0" font-weight="700" fill="#002957">Finding label lorem ipsum dolor:</tspan>
+      <tspan x="72" dy="24">• Body text lorem ipsum dolor sit</tspan>
+      <tspan x="72" dy="22">  Body text lorem ipsum dolor</tspan>
+      <tspan x="72" dy="24">• Body text lorem ipsum dolor sit</tspan>
+      <tspan x="72" dy="22">  Body text lorem ipsum dolor sit amet</tspan>
+      <tspan x="72" dy="26" font-weight="700" fill="#002957">• Finding label lorem ipsum dolor</tspan>
+      <tspan x="72" dy="22" font-weight="700" fill="#002957">  Finding label lorem ipsum dolor</tspan>
+    </text>
+  </g>
+
+  <g id="conclusion-2" data-pptx-bounds="444 156 380 344">
+    <rect x="444" y="156" width="380" height="344" rx="4" fill="#F4F6F8" stroke="#002957" stroke-width="1.5"/>
+    <rect x="468" y="180" width="36" height="36" rx="4" fill="#F1563F"/>
+    <text x="486" y="205" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">2</text>
+    <text x="516" y="205" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Subheading lorem</text>
+
+    <text x="468" y="248" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="15">
+      <tspan x="468" dy="0" font-weight="700" fill="#F1563F">Finding label lorem ipsum:</tspan>
+      <tspan x="468" dy="24">• Body text lorem ipsum dolor</tspan>
+      <tspan x="468" dy="22">  Body text lorem ipsum dolor sit amet</tspan>
+      <tspan x="468" dy="24">• Body text lorem ipsum</tspan>
+      <tspan x="468" dy="22">  Body text lorem ipsum dolor sit amet</tspan>
+      <tspan x="468" dy="26" font-weight="700" fill="#F1563F">• Finding label lorem ipsum dolor</tspan>
+      <tspan x="468" dy="22" font-weight="700" fill="#F1563F">  Finding label lorem ipsum dolor sit</tspan>
+    </text>
+  </g>
+
+  <g id="conclusion-3" data-pptx-bounds="840 156 392 344">
+    <rect x="840" y="156" width="392" height="344" rx="4" fill="#F4F6F8" stroke="#002957" stroke-width="1.5"/>
+    <rect x="864" y="180" width="36" height="36" rx="4" fill="#C29A5B"/>
+    <text x="882" y="205" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">3</text>
+    <text x="912" y="205" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Subheading lorem</text>
+
+    <text x="864" y="248" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="15">
+      <tspan x="864" dy="0" font-weight="700" fill="#002957">Finding label lorem ipsum:</tspan>
+      <tspan x="864" dy="24">• Body text lorem ipsum dolor sit</tspan>
+      <tspan x="864" dy="22">  Body text lorem ipsum dolor sit amet</tspan>
+      <tspan x="864" dy="24">• Body text lorem ipsum dolor sit</tspan>
+      <tspan x="864" dy="22">  Body text lorem ipsum dolor sit</tspan>
+      <tspan x="864" dy="26" font-weight="700" fill="#002957">• Finding label lorem ipsum</tspan>
+      <tspan x="864" dy="22" font-weight="700" fill="#002957">  Finding label lorem ipsum</tspan>
+    </text>
+  </g>
+
+  <g id="pedagogical-banner" data-pptx-bounds="48 520 1184 136">
+    <rect x="48" y="520" width="1184" height="136" rx="4" fill="#002957"/>
+    <text x="76" y="554" fill="#C29A5B" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Subheading lorem ipsum dolor sit amet consectetur</text>
+    <text x="76" y="584" fill="#FFFFFF" font-family="Lato, Arial, sans-serif" font-size="15">
+      <tspan x="76" dy="0">• Body text lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut</tspan>
+      <tspan x="76" dy="24">• Body text lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et</tspan>
+      <tspan x="76" dy="24">• Body text lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="48 686 1184 22">
+    <text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">15</text>
+    <text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text>
+    <text x="1232" y="701" text-anchor="end" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">JYU SINCE 1863.</text>
+  </g>
+</svg>

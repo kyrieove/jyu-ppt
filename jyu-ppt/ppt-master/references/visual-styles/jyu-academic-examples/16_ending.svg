@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#002957" data-pptx-role="background"/>
+  <g id="framing-strip" data-pptx-role="decoration" data-pptx-bounds="320 704 960 16">
+    <rect id="strip-coral" x="320" y="704" width="320" height="16" fill="#F1563F"/>
+    <rect id="strip-gold" x="640" y="704" width="320" height="16" fill="#C29A5B"/>
+    <rect id="strip-grey" x="960" y="704" width="320" height="16" fill="#C7C9C8"/>
+  </g>
+  <g id="header-brand" data-pptx-role="decoration" data-pptx-bounds="546 44 188 145">
+    <image id="ending-logo" x="546.68" y="44" width="186.63" height="120.94" href="../images/jyu_logo_vertical_white.svg" preserveAspectRatio="xMidYMid meet"/>
+    <rect id="ending-gold-rule" x="600" y="184" width="80" height="3" fill="#C29A5B"/>
+  </g>
+  <g id="title-block" data-pptx-bounds="48 205 1184 120">
+    <text id="ending-title" x="640" y="250" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="42" font-weight="700">Thank You / Kiitos</text>
+    <text id="ending-subtitle" x="640" y="295" text-anchor="middle" fill="#C29A5B" font-family="Aleo, Georgia, serif" font-size="24">Questions, Comments &amp; Discussion</text>
+  </g>
+  <g id="ref-block" data-pptx-bounds="100 345 1080 155">
+    <rect x="100" y="345" width="1080" height="145" rx="4" fill="#001F42" stroke="#C29A5B" stroke-width="1"/>
+    <text x="130" y="380" fill="#C29A5B" font-family="Aleo, Georgia, serif" font-size="18" font-weight="700">Full Paper Reference:</text>
+    <text x="130" y="412" fill="#FFFFFF" font-family="Lato, Arial, sans-serif" font-size="15">
+      <tspan x="130" dy="0">Reference line lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt</tspan>
+      <tspan x="130" dy="24">Reference line lorem ipsum dolor sit amet consectetur</tspan>
+      <tspan x="130" dy="24" fill="#C7C9C8">Reference line lorem ipsum dolor sit amet consectetur adipiscing elit sed do</tspan>
+    </text>
+  </g>
+  <g id="contact-block" data-pptx-bounds="48 515 1184 150">
+    <text x="640" y="550" text-anchor="middle" fill="#FFFFFF" font-family="Lato, Arial, sans-serif" font-size="18" font-weight="700">Affiliation</text>
+    <text x="640" y="585" text-anchor="middle" fill="#C7C9C8" font-family="Lato, Arial, sans-serif" font-size="16"></text>
+    <text x="640" y="630" text-anchor="middle" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Presenter: Presenter Name</text>
+  </g>
+</svg>

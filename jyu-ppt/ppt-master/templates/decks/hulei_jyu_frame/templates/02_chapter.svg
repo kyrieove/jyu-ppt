@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  data-pptx-master="hj_dark" data-pptx-master-name="JYU Dark"
+  data-pptx-layout="chapter" data-pptx-layout-name="Section Divider">
+  <rect id="dark-master-bg" x="0" y="0" width="1280" height="720" fill="#002957" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-coral" x="320" y="704" width="320" height="16" fill="#F1563F" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-gold" x="640" y="704" width="320" height="16" fill="#C29A5B" data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="dark-master-strip-grey" x="960" y="704" width="320" height="16" fill="#C7C9C8" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="chapter-logo" x="64" y="56" width="113.15" height="45" href="../images/jyu_logo_horizontal_white.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="chapter-torch" x="1060" y="200" width="105.71" height="240" href="../images/jyu_torch_slate.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <text id="chapter-part-label" x="64" y="300" fill="#C29A5B" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="700" data-pptx-layer="layout" data-pptx-editable="false">PART</text>
+  <rect id="chapter-gold-rule" x="64" y="452" width="80" height="3" fill="#C29A5B" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="chapter-num-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="64 310 320 130">
+    <text id="chapter-num-carrier" data-pptx-carrier="true" x="64" y="420" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="120" font-weight="700">{{CHAPTER_NUM}}</text>
+  </g>
+  <g id="chapter-title-slot" data-pptx-placeholder="title" data-pptx-bounds="64 468 1100 72">
+    <text id="chapter-title-carrier" data-pptx-carrier="true" x="64" y="520" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="48" font-weight="700">{{CHAPTER_TITLE}}</text>
+  </g>
+  <g id="chapter-desc-slot" data-pptx-placeholder="subtitle" data-pptx-idx="2" data-pptx-bounds="64 552 1100 44">
+    <text id="chapter-desc-carrier" data-pptx-carrier="true" x="64" y="582" fill="#C7C9C8" font-family="Lato, Microsoft YaHei, Arial, sans-serif" font-size="20">{{CHAPTER_DESC}}</text>
+  </g>
+</svg>

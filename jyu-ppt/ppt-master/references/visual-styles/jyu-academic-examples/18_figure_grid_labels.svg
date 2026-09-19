@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration"><image x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="page-header"><text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text><text x="48" y="92" fill="#002957" font-family="Aleo, Georgia, serif" font-size="34" font-weight="700">Page title stating the claim lorem ipsum dolor</text><line x1="48" y1="146" x2="1232" y2="146" stroke="#C7C9C8" stroke-width="1"/></g>
+  <image x="48" y="176" width="370" height="220" href="../images/figure_1.jpeg" preserveAspectRatio="xMidYMid meet"/>
+  <image x="438" y="176" width="370" height="220" href="../images/figure_2.jpeg" preserveAspectRatio="xMidYMid meet"/>
+  <image x="48" y="420" width="370" height="220" href="../images/figure_3.jpeg" preserveAspectRatio="xMidYMid meet"/>
+  <image x="438" y="420" width="370" height="220" href="../images/figure_4.jpeg" preserveAspectRatio="xMidYMid meet"/>
+  <line x1="836" y1="176" x2="836" y2="640" stroke="#C7C9C8" stroke-width="1"/>
+  <text x="864" y="270" fill="#002957" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">Row label A</text>
+  <text x="864" y="302" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="864" dy="0">Body text lorem ipsum dolor</tspan><tspan x="864" dy="24">sit amet consectetur</tspan></text>
+  <text x="864" y="514" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="24" font-weight="700">Row label B</text>
+  <text x="864" y="546" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="864" dy="0">Body text lorem ipsum dolor</tspan><tspan x="864" dy="24">sit amet consectetur</tspan></text>
+  <text x="48" y="664" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="11">Fig. 1: Figure caption lorem ipsum dolor sit amet — left column condition A, right column condition B (Author et al., Year).</text>
+  <g id="page-footer"><text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">18</text><text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text><text x="1232" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="end">JYU SINCE 1863.</text></g>
+</svg>

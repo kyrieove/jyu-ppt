@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+  <g id="header-brand" data-pptx-role="decoration"><image x="1194" y="30" width="26.43" height="60" href="../images/jyu_torch_navy.svg" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="page-header"><text x="48" y="56" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">SECTION · PAGE TOPIC</text><text x="48" y="92" fill="#002957" font-family="Aleo, Georgia, serif" font-size="34" font-weight="700"><tspan x="48" dy="0">Page title stating the claim lorem ipsum</tspan><tspan x="48" dy="40">Page title stating the claim lorem</tspan></text><line x1="48" y1="146" x2="1232" y2="146" stroke="#C7C9C8" stroke-width="1"/></g>
+  <text x="48" y="192" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">DOMAIN</text>
+  <line x1="48" y1="202" x2="304" y2="202" stroke="#002957" stroke-width="1.5"/>
+  <text x="48" y="250" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item A lorem ipsum</text>
+  <text x="48" y="278" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="48" dy="0">Body text lorem ipsum dolor</tspan><tspan x="48" dy="22">sit amet consectetur</tspan></text>
+  <text x="48" y="382" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item B lorem ipsum</text>
+  <text x="48" y="410" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="48" dy="0">Body text lorem ipsum dolor</tspan><tspan x="48" dy="22">sit amet consectetur</tspan></text>
+  <text x="48" y="514" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item C lorem ipsum</text>
+  <text x="48" y="542" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="48" dy="0">Body text lorem ipsum dolor</tspan><tspan x="48" dy="22">sit amet consectetur</tspan></text>
+  <line x1="310" y1="418" x2="338" y2="418" stroke="#C29A5B" stroke-width="2"/><path d="M 338 418 l -8 -5 l 0 10 Z" fill="#C29A5B" transform="rotate(0 338 418)"/>
+  <text x="348" y="192" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">METHOD</text>
+  <line x1="348" y1="202" x2="604" y2="202" stroke="#002957" stroke-width="1.5"/>
+  <line x1="326" y1="226" x2="326" y2="630" stroke="#C7C9C8" stroke-width="1"/>
+  <text x="348" y="250" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item A lorem ipsum</text>
+  <text x="348" y="278" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="348" dy="0">Body text lorem ipsum dolor</tspan><tspan x="348" dy="22">sit amet consectetur</tspan></text>
+  <text x="348" y="382" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item B lorem ipsum</text>
+  <text x="348" y="410" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="348" dy="0">Body text lorem ipsum dolor</tspan><tspan x="348" dy="22">sit amet consectetur</tspan></text>
+  <text x="348" y="514" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item C lorem ipsum</text>
+  <text x="348" y="542" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="348" dy="0">Body text lorem ipsum dolor</tspan><tspan x="348" dy="22">sit amet consectetur</tspan></text>
+  <line x1="610" y1="418" x2="638" y2="418" stroke="#C29A5B" stroke-width="2"/><path d="M 638 418 l -8 -5 l 0 10 Z" fill="#C29A5B" transform="rotate(0 638 418)"/>
+  <text x="648" y="192" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">DESIGN</text>
+  <line x1="648" y1="202" x2="904" y2="202" stroke="#002957" stroke-width="1.5"/>
+  <line x1="626" y1="226" x2="626" y2="630" stroke="#C7C9C8" stroke-width="1"/>
+  <text x="648" y="250" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item A lorem ipsum</text>
+  <text x="648" y="278" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="648" dy="0">Body text lorem ipsum dolor</tspan><tspan x="648" dy="22">sit amet consectetur</tspan></text>
+  <text x="648" y="382" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item B lorem ipsum</text>
+  <text x="648" y="410" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="648" dy="0">Body text lorem ipsum dolor</tspan><tspan x="648" dy="22">sit amet consectetur</tspan></text>
+  <text x="648" y="514" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item C lorem ipsum</text>
+  <text x="648" y="542" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="648" dy="0">Body text lorem ipsum dolor</tspan><tspan x="648" dy="22">sit amet consectetur</tspan></text>
+  <line x1="910" y1="418" x2="938" y2="418" stroke="#C29A5B" stroke-width="2"/><path d="M 938 418 l -8 -5 l 0 10 Z" fill="#C29A5B" transform="rotate(0 938 418)"/>
+  <text x="948" y="192" fill="#002957" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">OUTCOME</text>
+  <line x1="948" y1="202" x2="1204" y2="202" stroke="#002957" stroke-width="1.5"/>
+  <line x1="926" y1="226" x2="926" y2="630" stroke="#C7C9C8" stroke-width="1"/>
+  <text x="948" y="250" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item A lorem ipsum</text>
+  <text x="948" y="278" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="948" dy="0">Body text lorem ipsum dolor</tspan><tspan x="948" dy="22">sit amet consectetur</tspan></text>
+  <text x="948" y="382" fill="#002957" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item B lorem ipsum</text>
+  <text x="948" y="410" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="948" dy="0">Body text lorem ipsum dolor</tspan><tspan x="948" dy="22">sit amet consectetur</tspan></text>
+  <text x="948" y="514" fill="#F1563F" font-family="Aleo, Georgia, serif" font-size="20" font-weight="700">Item C lorem ipsum</text>
+  <text x="948" y="542" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="16"><tspan x="948" dy="0">Body text lorem ipsum dolor</tspan><tspan x="948" dy="22">sit amet consectetur</tspan></text>
+  <g id="page-footer"><text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">20</text><text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text><text x="1232" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="end">JYU SINCE 1863.</text></g>
+</svg>

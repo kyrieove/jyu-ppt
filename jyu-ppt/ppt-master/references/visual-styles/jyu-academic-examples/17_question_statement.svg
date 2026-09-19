@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-role="background"/>
+    <text x="640" y="250" fill="#F1563F" font-family="Lato, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1.5">TOPIC · LOREM IPSUM</text>
+  <rect x="600" y="272" width="80" height="3" fill="#C29A5B"/>
+  <text x="640" y="350" fill="#002957" font-family="Aleo, Georgia, serif" font-size="48" font-weight="700" text-anchor="middle">What is lorem ipsum dolor?</text>
+  <text x="640" y="410" fill="#1A1A1A" font-family="Lato, Arial, sans-serif" font-size="20" text-anchor="middle">One-sentence working definition lorem ipsum dolor sit amet, consectetur adipiscing elit.</text>
+  <text x="640" y="440" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="middle">(Author, Year)</text>
+  <g id="page-footer"><text x="48" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">17</text><text x="88" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Source · Section / figure of the paper</text><text x="1232" y="701" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14" text-anchor="end">JYU SINCE 1863.</text></g>
+</svg>

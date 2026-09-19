@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#002957" data-pptx-role="background"/>
+  <g id="framing-strip" data-pptx-role="decoration" data-pptx-bounds="320 704 960 16">
+    <rect id="strip-coral" x="320" y="704" width="320" height="16" fill="#F1563F"/>
+    <rect id="strip-gold" x="640" y="704" width="320" height="16" fill="#C29A5B"/>
+    <rect id="strip-grey" x="960" y="704" width="320" height="16" fill="#C7C9C8"/>
+  </g>
+  <g id="header-brand" data-pptx-role="decoration" data-pptx-bounds="546 44 188 145">
+    <image id="cover-logo" x="546.68" y="44" width="186.63" height="120.94" href="../images/jyu_logo_vertical_white.svg" preserveAspectRatio="xMidYMid meet"/>
+    <rect id="cover-gold-rule" x="600" y="186" width="80" height="3" fill="#C29A5B"/>
+  </g>
+  <g id="title-block" data-pptx-bounds="48 200 1184 210">
+    <text id="cover-title" x="640" y="246" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="38" font-weight="700">
+      <tspan x="640" dy="0">Presentation Title Stating the Paper's</tspan>
+      <tspan x="640" dy="50">Central Question in Up to Three Lines</tspan>
+    </text>
+    <text id="cover-subtitle" x="640" y="380" text-anchor="middle" fill="#FFFFFF" font-family="Aleo, Georgia, serif" font-size="26">Subtitle: Method or Evidence Base</text>
+  </g>
+  <g id="meta-block" data-pptx-bounds="48 440 1184 190">
+    <text id="cover-presenter" x="640" y="474" text-anchor="middle" fill="#FFFFFF" font-family="Lato, Arial, sans-serif" font-size="24" font-weight="700">Presenter Name</text>
+    <text id="cover-affiliation" x="640" y="536" text-anchor="middle" fill="#C7C9C8" font-family="Lato, Arial, sans-serif" font-size="18">Affiliation</text>
+    <text id="cover-citation" x="640" y="618" text-anchor="middle" fill="#8094AB" font-family="Lato, Arial, sans-serif" font-size="14">Author A, Author B &amp; Author C (Year). Journal Name, Volume, Article.</text>
+  </g>
+  <image id="cover-partner-logo" x="1100" y="552" width="120" height="120" href="../images/interlearn_logo.png" preserveAspectRatio="xMidYMid meet"/>
+</svg>
