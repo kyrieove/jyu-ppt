@@ -1,6 +1,6 @@
 ---
 name: jyu-ppt
-description: One-shot "/jyu-ppt <paper path>" — turn a research paper (PDF/DOCX) directly into an English University of Jyväskylä (JYU) academic PPTX with speaker notes, using the bundled ppt-master (quick-generate), brand hulei_jyu, frame deck hulei_jyu_frame and visual style jyu-academic. No confirmation stops after one-time first-run setup.
+description: One-shot PPT from a research paper (PDF/DOCX): "$jyu-ppt <paper path>" (Codex) or "/jyu-ppt <paper path>" (Claude Code / ZCode) — turn it directly into an English University of Jyväskylä (JYU) academic PPTX with speaker notes, using the bundled ppt-master (quick-generate), brand hulei_jyu, frame deck hulei_jyu_frame and visual style jyu-academic. No confirmation stops after one-time first-run setup.
 ---
 
 # jyu-ppt
